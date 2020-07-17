@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Welcome in my profile 👋
+
+- 🌱 I’m currently learning Data Science
+- 📫 Reach me: @aemiralfath (Instagram), Ahmad Emir Alfatah (LinkedIn)
 
 <!--
 **aemiralfath/aemiralfath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
