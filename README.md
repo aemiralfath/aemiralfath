@@ -2,7 +2,7 @@
 
 ⚡ Software Engineer
 
-<img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21305037" height="15px"/>  <a href="https://www.credential.net/10b55b26-1fe7-45c1-9788-d2b6c6768bff#gs.fc1z2q" target="_blank">TensorFlow Developer Certified</a>
+<img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21305037" height="20px"/>  <a href="https://www.credential.net/10b55b26-1fe7-45c1-9788-d2b6c6768bff#gs.fc1z2q" target="_blank">TensorFlow Developer Certified</a>
 
 📫 Reach me: 🤙 [LinkedIn](https://www.linkedin.com/in/fahmijabbar/)
 
