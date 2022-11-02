@@ -2,8 +2,6 @@
 
 ⚡ Software Engineer
 
-<img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/21305037" height="20px"/>  <a href="https://www.credential.net/10b55b26-1fe7-45c1-9788-d2b6c6768bff#gs.fc1z2q" target="_blank">TensorFlow Developer Certified</a>
-
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/aemiralfath/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aemiralfath&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemiralfath&layout=compact&theme=tokyonight" />
